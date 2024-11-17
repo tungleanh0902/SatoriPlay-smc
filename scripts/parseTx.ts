@@ -68,7 +68,6 @@ export async function run() {
     });
     const client = new TonClient({ 
         endpoint: "https://testnet.toncenter.com/api/v2/jsonRPC",
-        apiKey: "1046d329274239755b541f9a3cc22992ffb7dc3ea4e8047be0f712bc923cf99a"
      });
     try {
         let boc = "te6cckECBgEAASIAAeWIAKvwOFmhnU9GlA+KKEY+cJtThmSN5EYQMDVivnd8CxCcA5tLO3P///iLOZcMQAAAAORIn2O80D8T8IGURsWd7vZ7AME81vj5zNFNufHKD45r5GO5fl0nlAT8gFcSZzrdwrgPfHDiQ0LxtfBaHEM3+WIHAQIKDsPIbQMFAgHbYgBalnTO2vDb6WQz7JGxHdIp8L1RvffgbQUeC24aOwnI6SAhYOwAAAAAAAAAAAAAAAAAAAAAAAEAAAGTHrw9QQAAAAAAAAAEQC+vCAgAG6TwG5DI7PxtOECMxbvY/cfgX1Twk91ewE+0zt29mBMDAUOACr8DhZoZ1PRpQPiihGPnCbU4ZkjeRGEDA1Yr53fAsQnQBAASL25mdC5qc29uAAC/M7SN"
