@@ -4,6 +4,7 @@ build
 dist
 .DS_Store
 scripts/saveNewBadge.ts
+scripts/parseTx.ts
 
 # VS Code
 .vscode/*
